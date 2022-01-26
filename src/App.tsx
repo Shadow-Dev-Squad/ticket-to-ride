@@ -1,3 +1,5 @@
+import { HelloComponent } from './components/HelloComponent.jsx'
+
 export function App() {
-  return <h1>Hello 😺👋</h1>
+  return <HelloComponent />
 }
