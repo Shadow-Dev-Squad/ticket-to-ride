@@ -1,0 +1,15 @@
+{
+  "name": "ticket-to-ride",
+  "version": "0.1.0",
+  "source": "src/index.html",
+  "type": "module",
+  "repository": "git@github.com:Shadow-Dev-Squad/ticket-to-ride.git",
+  "author": "martiiian <jkramorevx@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
